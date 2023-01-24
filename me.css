@@ -1,0 +1,72 @@
+body{background-image:url("https://i.pinimg.com/originals/41/f2/78/41f2785d59f476cc75360f398790673e.jpg");
+background-repeat:repeat-y;
+background-size:1300px 700px;
+background-position:20px 100px 20px;}
+
+.flex{display:flex;
+flex-direction:row;
+justify-content:space-evenly;
+align-items:center;
+height:90px;
+background-color:lightslategray;
+border:3px solid black;}
+    
+.start{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+        
+.text_start{height:0px;
+width:0px;
+padding:13px 32px;}
+        
+.me{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+        
+.text_me{height:0px;
+width:0px;
+padding:5px 33px;}
+        
+.courses{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+        
+.text_courses{height:0px;
+width:0px;
+padding:13px 27px;}
+        
+.interests{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+        
+.text_interests{height:0px;
+width:0px;
+padding:13px 20px;}
+
+h2{color:white;}
+
+h3{color:white;}
+
+p{color:white;}
+
+ul{color:white;}
+
+a{color:blue;}
+
+form{border:3px solid grey;
+width:400px;
+color:white;}
+
+.img1{position:absolute;
+left:600px;
+bottom:200px;
+right:200px;
+top:125px;}
+
+.img2{position:absolute;
+left:700px;
+top:600px;}

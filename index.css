@@ -1,0 +1,66 @@
+body{background-image:url("https://st.depositphotos.com/2100659/3825/v/600/depositphotos_38254311-stock-illustration-abstract-geometric-background-seamless-blue.jpg");}
+
+.flex{display:flex;
+flex-direction:row;
+justify-content:space-evenly;
+align-items:center;
+background-color:lightslategray;
+border:3px solid black;
+height:90px;}
+
+.start{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+
+.text_start{height:0px;
+width:0px;
+padding:13px 32px;}
+
+.me{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+
+.text_me{height:0px;
+width:0px;
+padding:5px 33px;}
+
+.courses{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+
+.text_courses{height:0px;
+width:0px;
+padding:13px 27px;}
+
+.interests{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+
+.text_interests{height:0px;
+width:0px;
+padding:13px 20px;}
+
+.header1{color:black;}
+
+.header2{height:0px;
+width:0px;
+position:absolute;
+left:500px;
+color:black;}
+
+.voggi_face{position:absolute;
+top:200px;
+left:580px;}
+
+.div1{position:absolute;
+left:460px;}
+
+.div2{position:absolute;
+left:430px;
+top:400px;}
+
+a{color:blue;}

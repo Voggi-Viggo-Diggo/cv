@@ -1,0 +1,54 @@
+body{background-image:url("https://media.istockphoto.com/id/959109854/vector/abstract-lines-pattern-technology-on-red-gradients-background.jpg?s=612x612&w=0&k=20&c=TOQ79VE9pdcAIuZ0nkLtw8jxBtsQFPlPTocTLhvEHiM=");
+background-repeat:repeat-y;
+background-size:1300px 800px;}
+
+.school_logo{position:absolute;
+top:250px;
+left:530px;
+right:160px;}
+
+.flex{display:flex;
+flex-direction:row;
+justify-content:space-evenly;
+align-items:center;
+height:90px;
+background-color:lightslategray;
+border:3px solid black;}
+
+.start{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+    
+.text_start{height:0px;
+width:0px;
+padding:13px 32px;}
+    
+.me{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+    
+.text_me{height:0px;
+width:0px;
+padding:5px 33px;}
+    
+.courses{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+    
+.text_courses{height:0px;
+width:0px;
+padding:13px 27px;}
+    
+.interests{height:75px;
+width:100px;
+border-radius:20px;
+background-color:lightseagreen;}
+    
+.text_interests{height:0px;
+width:0px;
+padding:13px 20px;}
+    
+a{color:blue;}
